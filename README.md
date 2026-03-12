@@ -157,6 +157,13 @@ Task 'Finish report' added successfully!
 ```
 
 ---
+## Screenshot
+
+<p align="left">  
+  <img src="assets/Screenshot 2026-03-12 155801.png"   
+       width="auto"   
+       style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />  
+</p>  
 
 ## Notes
 
@@ -164,3 +171,5 @@ Task 'Finish report' added successfully!
 * Priority is used for sorting tasks when listing them.
 * Data persists between sessions using `tasks.json`.
 * Make sure `tasks.json` has proper read/write permissions.
+
+
