@@ -37,7 +37,7 @@ A simple command-line task manager built with Python that allows you to add, lis
 1. Clone or download this repository to your local machine:
 
 ```bash
-git clone <https://github.com/ebula-edu/SSquad/>
+https://github.com/ebula-edu/SSquad.git
 ```
 
 2. Navigate to the project folder:
