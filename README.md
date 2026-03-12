@@ -1,3 +1,13 @@
+<p align="left">  
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"   
+       width="130"   
+       style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />  
+</p>  
+
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=ebula-edu&label=Repository%20Requests&color=ff5805&style=for-the-badge" />  
+</p>
+
 # Python Task Manager
 
 A simple command-line task manager built with Python that allows you to add, list, update, delete, and search tasks. Tasks are stored in a local JSON file (`tasks.json`) for persistence.
