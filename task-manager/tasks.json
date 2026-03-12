@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread, and fruits",
+        "priority": 2
+    },
+    {
+        "id": 2,
+        "title": "Finish project report",
+        "description": "Complete the Python project report by Friday",
+        "priority": 1
+    },
+    {
+        "id": 3,
+        "title": "Call Mom",
+        "description": "Check in and talk about weekend plans",
+        "priority": 3
+    },
+    {
+        "id": 4,
+        "title": "Workout",
+        "description": "30 minutes cardio and strength training",
+        "priority": 2
+    },
+    {
+        "id": 5,
+        "title": "Read book",
+        "description": "Read at least 50 pages of the current novel",
+        "priority": 3
+    }
+]
