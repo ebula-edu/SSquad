@@ -1,3 +1,5 @@
+<img width="1170" height="433" alt="ssquad" src="https://github.com/user-attachments/assets/35aca142-ac6b-4ed9-84ce-c277d90a3f83" />
+
 # SSquad Task Manager
 
 A polished Tkinter desktop task manager for Windows and cross-platform Python environments. It keeps your tasks in JSON, provides a modern dashboard-style UI, and can be packaged into a standalone executable with PyInstaller.
